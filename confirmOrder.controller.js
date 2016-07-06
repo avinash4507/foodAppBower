@@ -1,7 +1,7 @@
 (function() {
     "use strict";
     angular
-        .module('avinash.foodieApp')
+        .module('avinash.foodieApp',[])
         .controller('ConfirmOrderController', ConfirmOrderController);
 
     ConfirmOrderController.$inject = ['vendorService', 'toastr'];
