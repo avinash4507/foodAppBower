@@ -1,0 +1,22 @@
+{
+  "name": "my-bower-compo-confirm-order",
+  "authors": [
+    "Avinash Singh <avinash4507@gmail.com>"
+  ],
+  "description": "foodie app's confirm order page",
+  "main": "confirmOrder.controller.js",
+  "keywords": [
+    "confirm",
+    "order"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
